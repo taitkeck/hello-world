@@ -12,3 +12,10 @@ ssh-keygen
 ```
 
 3. Go to where the file was saved `id_rsa.pub` and copy that into a new key at [https://github.com/settings/keys](https://github.com/settings/keys).
+4. Clone repository.
+
+```
+git clone git@github.com:taitkeck/hello-world.git
+```
+
+5. In VS Code, you can manage your repository in the "Source Control" tab.
